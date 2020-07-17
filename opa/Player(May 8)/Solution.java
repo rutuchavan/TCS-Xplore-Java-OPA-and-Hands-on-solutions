@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Solution {
-
 	public static void main(String[] args) {
 		Player[] player=new Player[4];
 		Scanner sc=new Scanner(System.in);
