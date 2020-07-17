@@ -1,4 +1,4 @@
-Create a class TravelAgencies with below attributes:
+Create a class TravelAgencies with below attributes: 
 	regNo – int
 	agencyName – String
 	pakageType – String
